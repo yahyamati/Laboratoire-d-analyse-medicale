@@ -1,0 +1,25 @@
+Users:
+
+Gerant
+
+    samohezouat.18@gmail.com
+
+    Oussama123
+
+Medecin
+
+    yahya@gmail.com
+
+    yahya123
+
+Receptionniste
+
+    loukmane@gmail.com
+
+    loukmane123
+
+Biologiste
+
+    rayane@gmail.com
+
+    rayane123
